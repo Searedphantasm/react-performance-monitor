@@ -38,7 +38,7 @@
 2. وارد پوشه سرور شوید و بسته‌های موردنیاز را نصب کنید:
 
    ```bash
-   cd نام‌مخزن/server
+   cd react-performance-monitor/server
    npm install
    ```
 
